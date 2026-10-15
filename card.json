@@ -1,0 +1,116 @@
+{
+  "slug": "rosa-delgado",
+  "name": "Rosa Delgado",
+  "pronouns": "she/her",
+  "title": "Ph.D. Candidate, Entomology",
+  "headline": "Why honey bees forget the way home, and what pesticides have to do with it.",
+  "department": "Department of Entomology",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Why honey bees forget the way home, and what pesticides have to do with it. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Pollinator health",
+    "Insect behavior",
+    "Pesticide ecotoxicology",
+    "Apiculture"
+  ],
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "icon": "scholar"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/",
+      "icon": "orcid"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/",
+      "icon": "social"
+    },
+    {
+      "label": "Lab website",
+      "url": "https://example.com",
+      "icon": "research"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sublethal neonicotinoid exposure impairs bee navigation",
+      "venue": "Proc. R. Soc. B",
+      "year": 2026,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    },
+    {
+      "title": "Urban bee diversity across Athens–Clarke County",
+      "venue": "Insects",
+      "year": 2025,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    }
+  ],
+  "projects": [
+    {
+      "title": "BeeTrack",
+      "description": "RFID tracking of 3,000 foragers",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Bug Camp",
+      "description": "Summer outreach for middle-schoolers",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. Candidate, Entomology",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#d98e04",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#fff1cf"
+  }
+}
